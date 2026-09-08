@@ -1,12 +1,12 @@
 # Dom Macfarlane
 
-**Network engineering · AWS · Automation**
+**Network Engineering · AWS · Automation**
 
-I build networks, applications and infrastructure as code with AWS CDK. I use AI to accelerate research, optimise systems and support security reviews—backed by testing and verification.
+I take networks through the full lifecycle: design, procurement, build, optimisation and automation. I also build applications and cloud infrastructure with AWS and CDK, using AI to accelerate research, development, optimisation and security analysis.
 
-- **Networks:** Junos, Cisco IOS, Clos fabrics, MPLS and segment routing.
-- **Build & deploy:** Python, AWS, CDK, Linux and Docker.
-- **AI-assisted engineering:** Research, development, optimisation and security analysis.
+- **Networking:** Clos fabrics, transit and peering, BGP, OSPF, IS-IS, MPLS and segment routing. Juniper, Cisco and commodity platforms.
+- **Automation:** Python, Ansible, Jinja2, zero-touch provisioning and CI/CD.
+- **Cloud:** AWS CDK, serverless and event-driven systems, IAM and observability.
 
 ---
 
