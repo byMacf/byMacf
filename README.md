@@ -2,15 +2,15 @@
 
 **Network Engineering · AWS · Automation**
 
-I take networks through the full lifecycle: design, procurement, build, optimisation and automation. I also build applications and cloud infrastructure with AWS and CDK, using AI to accelerate research, development, optimisation and security analysis.
+I use AI to accelerate research, development, optimisation and security analysis across my engineering work.
 
 ```text
 DESIGN → PROCURE → BUILD → OPTIMISE → AUTOMATE
 ```
 
-- **Networking:** Clos fabrics, transit and peering, BGP, OSPF, IS-IS, MPLS and segment routing. Juniper, Cisco and commodity platforms.
+- **Networking:** End-to-end architecture and delivery across datacentre, peering and enterprise networks, spanning routing, switching, security, resilience and performance. Juniper, Cisco and commodity platforms.
 - **Automation:** Python, Ansible, Jinja2, zero-touch provisioning and CI/CD.
-- **Cloud:** AWS CDK, serverless and event-driven systems, IAM and observability.
+- **Cloud:** Applications and infrastructure built with AWS CDK, serverless and event-driven systems, IAM and observability.
 
 ---
 
