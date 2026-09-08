@@ -1,21 +1,56 @@
-<h1 align="center">Hi 👋, I'm Dom</h1>
-<h3 align="center">Network Engineering & Automation</h3>
+<div align="center">
 
-<!-- Contact & website -->
-<p align="center">
-<a href="mailto:d@macf.dev" title="Email Address"><code>Email: d@macf.dev</code></a> │ <a href="https://macf.dev" title="Website"><code>Blog: macf.dev</code></a>
-</p>
+# Dom Macfarlane
 
-<p align="center">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-</p>
+### Network engineering · Automation · Code
+
+Turning network designs into configurations, tooling and practical field notes.
+
+**[Writing ↗](https://macf.dev)** &nbsp; / &nbsp; **[Projects ↓](#selected-projects)** &nbsp; / &nbsp; **[Get in touch ↗](mailto:d@macf.dev)**
+
+</div>
+
+---
+
+## Packets meet Python.
+
+I work at the intersection of network engineering and software: modelling topologies, automating device configuration and building tools that make infrastructure easier to operate.
+
+My repositories explore **network provisioning, configuration generation and IP address management**. On [macf.dev](https://macf.dev), I write about the engineering behind them—from Clos fabrics to segment routing.
+
+## Selected projects
+
+| Project | What it does |
+| :--- | :--- |
+| **[ClosX](https://github.com/byMacf/ClosX)** | Three-tier Clos network generation with Python and NetworkX. |
+| **[Midas](https://github.com/byMacf/Midas)** | Topology-aware zero-touch provisioning for network devices, including Junos and Cisco IOS. |
+| **[XANDER](https://github.com/byMacf/XANDER)** | Modular network configuration generation with Jinja templates. |
+| **[IPAMLite](https://github.com/byMacf/IPAMLite)** | A Flask-based IP address manager. |
+| **[NDCT](https://github.com/byMacf/NDCT)** | Network device configuration and deployment tooling. |
+
+## Engineering field notes
+
+**Networks are complicated. The writing shouldn’t be.**
+
+- [Building a three-tier Clos network generator with Python, NetworkX and Jinja2](https://macf.dev/building-a-3-tier-clos-network-generator-in-python-using-networkx-and-jinja2)
+- [Juniper segment routing with MPLS and OSPF (SR-MPLS)](https://macf.dev/juniper-segment-routing-with-mpls-and-ospf-sr-mpls)
+
+[Read the blog →](https://macf.dev) &nbsp; · &nbsp; [Subscribe via RSS →](https://macf.dev/feed.xml)
+
+## Tools of the trade
+
+**Networks** — Junos · Cisco IOS · Clos fabrics · MPLS · OSPF · Segment routing
+
+**Automation** — Python · Jinja2 · YAML · NetworkX · Git
+
+**Applications & infrastructure** — Flask · Linux · Docker · Nginx · MySQL
+
+---
+
+<div align="center">
+
+**[macf.dev](https://macf.dev)** · [d@macf.dev](mailto:d@macf.dev)
+
+<sub>Code and projects here. Articles and field notes on the blog.</sub>
+
+</div>
